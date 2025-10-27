@@ -1,1 +1,1 @@
-# pde_sae
+# SAE-for-PINNNs
